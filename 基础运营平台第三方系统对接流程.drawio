@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T10:03:33.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="J1Z2UrMAwZO8dR6caShg" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-12T10:10:43.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fqTNOgxTX2zBKkcNwLpY" version="22.1.18" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1886" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-82" value="业务体量确认" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="nFZiK4tMnYkpv-_QsDiX-23" vertex="1">
           <mxGeometry x="134" y="260" width="85" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-99" value="预算申请" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="nFZiK4tMnYkpv-_QsDiX-23" vertex="1">
+          <mxGeometry x="139" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-24" value="基础运营平台" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" parent="nFZiK4tMnYkpv-_QsDiX-22" vertex="1">
           <mxGeometry x="388" width="352" height="550" as="geometry">
             <mxRectangle width="352" height="550" as="alternateBounds" />
@@ -37,12 +40,6 @@
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-75" value="沟通部署方案" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="nFZiK4tMnYkpv-_QsDiX-24" vertex="1">
           <mxGeometry x="132" y="134" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="nFZiK4tMnYkpv-_QsDiX-24" source="nFZiK4tMnYkpv-_QsDiX-85" target="nFZiK4tMnYkpv-_QsDiX-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-99" value="预算申请" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="nFZiK4tMnYkpv-_QsDiX-24" vertex="1">
-          <mxGeometry x="134.5" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-79" value="部署方案沟通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="nFZiK4tMnYkpv-_QsDiX-24" vertex="1">
           <mxGeometry x="134.5" y="250" width="80" height="80" as="geometry" />
@@ -72,7 +69,7 @@
             <mxRectangle width="350" height="550" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-74" value="系统架构及功能介绍" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="nFZiK4tMnYkpv-_QsDiX-25" vertex="1">
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-74" value="系统架构及功能组件介绍" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="nFZiK4tMnYkpv-_QsDiX-25" vertex="1">
           <mxGeometry x="127.5" y="55" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-105" value="系统架构调整" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="nFZiK4tMnYkpv-_QsDiX-25" vertex="1">
@@ -114,6 +111,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="nFZiK4tMnYkpv-_QsDiX-22" source="nFZiK4tMnYkpv-_QsDiX-82" target="nFZiK4tMnYkpv-_QsDiX-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="nFZiK4tMnYkpv-_QsDiX-22" source="nFZiK4tMnYkpv-_QsDiX-85" target="nFZiK4tMnYkpv-_QsDiX-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-26" value="系统部署阶段" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;gradientColor=#7ea6e0;" parent="nFZiK4tMnYkpv-_QsDiX-21" vertex="1">
