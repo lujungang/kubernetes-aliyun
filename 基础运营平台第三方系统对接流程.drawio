@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T02:21:23.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WRlaUqck55Mew2SZ86W5" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:26:43.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uNWGxm_EHfwgn8isr_X0" version="22.1.18" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1773" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
             <mxRectangle width="352" height="440" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-166" value="生产环境资源交付" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;strokeWidth=2;arcSize=14;fillColor=#FFFFFF;" parent="nFZiK4tMnYkpv-_QsDiX-28" vertex="1">
+          <mxGeometry x="133.5" y="448" width="85" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-120" value="&lt;font color=&quot;#000000&quot;&gt;测试环境资源交付&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeWidth=2;arcSize=14;fillColor=#FFFFFF;" parent="nFZiK4tMnYkpv-_QsDiX-28" vertex="1">
           <mxGeometry x="132" y="28" width="85" height="60" as="geometry" />
         </mxCell>
@@ -146,9 +149,6 @@
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-144" value="&lt;font color=&quot;#000000&quot;&gt;生产环境资源交付&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeWidth=2;arcSize=14;fillColor=#FFFFFF;" parent="nFZiK4tMnYkpv-_QsDiX-28" vertex="1">
           <mxGeometry x="132" y="218" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-166" value="&lt;font color=&quot;#000000&quot;&gt;生产环境上线前准备&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeWidth=2;arcSize=14;fillColor=#FFFFFF;" parent="nFZiK4tMnYkpv-_QsDiX-28" vertex="1">
-          <mxGeometry x="133.5" y="448" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KbpwUN9nBIYEaWCEx_Nc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="nFZiK4tMnYkpv-_QsDiX-28">
           <mxGeometry relative="1" as="geometry">
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-29" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nFZiK4tMnYkpv-_QsDiX-26" vertex="1">
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-29" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=default;" parent="nFZiK4tMnYkpv-_QsDiX-26" vertex="1">
           <mxGeometry x="740" width="350" height="440" as="geometry">
             <mxRectangle width="350" height="440" as="alternateBounds" />
           </mxGeometry>
