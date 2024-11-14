@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:12:41.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ky1XTy-rBJZiEymKREGU" version="24.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="4">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1674" dy="758" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
             <mxPoint x="942" y="1904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nFZiK4tMnYkpv-_QsDiX-21" value="&lt;font style=&quot;font-size: 30px&quot;&gt;基础运营平台第三方系统对接流程&lt;/font&gt;" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=80;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;flipH=1;flipV=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="nFZiK4tMnYkpv-_QsDiX-21" value="&lt;font style=&quot;font-size: 30px&quot;&gt;基础运营平台外采系统对接流程&lt;/font&gt;" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=80;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;flipH=1;flipV=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="380" y="262" width="1440" height="1949" as="geometry" />
         </mxCell>
         <mxCell id="nFZiK4tMnYkpv-_QsDiX-22" value="项目启动阶段" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;gradientColor=#7ea6e0;" parent="nFZiK4tMnYkpv-_QsDiX-21" vertex="1">
