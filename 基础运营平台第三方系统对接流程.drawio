@@ -1371,7 +1371,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-19" value="项目实施方" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="HfBrfDuaW6_P9BtWOcJ0-4">
+        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-19" value="系统服务商" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="HfBrfDuaW6_P9BtWOcJ0-4">
           <mxGeometry x="740" width="350" height="550" as="geometry">
             <mxRectangle width="350" height="550" as="alternateBounds" />
           </mxGeometry>
