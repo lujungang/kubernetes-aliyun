@@ -1468,7 +1468,7 @@
         <mxCell id="HfBrfDuaW6_P9BtWOcJ0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HfBrfDuaW6_P9BtWOcJ0-39" source="HfBrfDuaW6_P9BtWOcJ0-43" target="HfBrfDuaW6_P9BtWOcJ0-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-41" value="需求开发和&lt;br&gt;验证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HfBrfDuaW6_P9BtWOcJ0-40">
+        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-41" value="需求开发和&lt;br&gt;验证以及SSO对接测试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HfBrfDuaW6_P9BtWOcJ0-40">
           <mxGeometry x="-0.15" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
