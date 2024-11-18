@@ -1337,7 +1337,7 @@
         <mxCell id="HfBrfDuaW6_P9BtWOcJ0-10" value="预算申请" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="HfBrfDuaW6_P9BtWOcJ0-5">
           <mxGeometry x="139" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-11" value="基础运营平台" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="HfBrfDuaW6_P9BtWOcJ0-4">
+        <mxCell id="HfBrfDuaW6_P9BtWOcJ0-11" value="基础运营平台（SRE、PD、安全）" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="HfBrfDuaW6_P9BtWOcJ0-4">
           <mxGeometry x="388" width="352" height="550" as="geometry">
             <mxRectangle width="352" height="550" as="alternateBounds" />
           </mxGeometry>
